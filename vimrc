@@ -35,3 +35,5 @@ set numberwidth=5
 command! W :w
 let mapleader=","
 imap <c-c> <esc>
+set nowrap
+map <Leader>n :NERDTreeToggle<CR>
