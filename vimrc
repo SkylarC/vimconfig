@@ -26,7 +26,7 @@ set incsearch
 set hls
 set t_Co=256
 set background=light
-color solarized
+color molokai
 nnoremap <CR> :nohlsearch<cr>
 set cursorline
 set cmdheight=2
